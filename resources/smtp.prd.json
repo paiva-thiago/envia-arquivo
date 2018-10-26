@@ -1,0 +1,13 @@
+{
+    "host": "seuendereco.smtp.aqui.br",
+    "port": "587",
+    "secure": false,
+    "requireTLS": true, 
+    "tls": { "rejectUnauthorized": false },
+    "auth": {
+        "user": "email@smtp.aqui.br",            
+        "pass": "Su@S3nh@-@qu1"
+    },        
+    "logger": false,
+    "debug": true
+}

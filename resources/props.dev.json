@@ -1,0 +1,11 @@
+{
+    "dir"           :  "Y:\\",
+    "mailDir"       :  "\\\\Caminho\\Do\\arquivo\\original\\para_ir_na_mensagem_do_email",
+    "sistemas"      : ["SISTEMA"],
+    "de"            :  "Seu Nome",
+    "from"          :  "remetente@email.aqui",
+    "replyTo"       :  "resposta@recebe.aqui",    
+    "to"            :  "destinatario@coloca.aqui",   
+    "cc"            :  "comcopia@coloca.aqui",
+    "somenteClass"  :  true    
+}
