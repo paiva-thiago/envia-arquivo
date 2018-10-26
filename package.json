@@ -1,0 +1,18 @@
+{
+  "name": "class-projects-updtr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PMSBC44114 - Thiago Paiva",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "email-templates": "^4.0.1",
+    "nodemailer": "^4.6.5",
+    "pug": "^2.0.3",
+    "xoauth2": "^1.2.0"
+  }
+}
