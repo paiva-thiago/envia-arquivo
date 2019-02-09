@@ -2,3 +2,4 @@ resources/props.dev.json
 resources/props.prd.json
 resources/smtp.dev.json
 resources/smtp.prd.json
+node_modules/
